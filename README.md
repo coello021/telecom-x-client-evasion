@@ -66,4 +66,5 @@ Este proyecto tiene como objetivo analizar la evasión de clientes en **Telecom 
 4. Ejecuta cada celda siguiendo el flujo ETL y análisis.
 
 📬 Autor
+
 Proyecto desarrollado por Oscar Coello como parte del desafío Telecom X. Para consultas, sugerencias o colaboración, puedes contactarme vía GitHub.
